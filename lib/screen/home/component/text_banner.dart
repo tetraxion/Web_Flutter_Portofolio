@@ -58,7 +58,15 @@ class AnimatedText extends StatelessWidget {
           AnimatedTextKit(
             animatedTexts: [
               TyperAnimatedText("flutter portofolio website."),
-              TyperAnimatedText("e-commerce with firebase."),
+              TyperAnimatedText("Flutter Bidan Delima with firebase Apps."),
+              TyperAnimatedText("Flutter Coffe Shop Apps."),
+              TyperAnimatedText("Flutter Example Login Apps."),
+              TyperAnimatedText("Laravel Booking Gwon MarieLocation Website."),
+              TyperAnimatedText("Laravel Master Data Storage Website."),
+              TyperAnimatedText("Bootstrap Clone."),
+              TyperAnimatedText("HTML Ecommerce NuShoptara."),
+              TyperAnimatedText("HTML Ticket BlackPink."),
+              TyperAnimatedText("Python Apotik."),
             ],
           ),
         ],
