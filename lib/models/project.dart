@@ -8,7 +8,7 @@ class Project {
 List<Project> demo_projects = [
   Project(
     title: "Flutter Portofolio Website",
-    link: "",
+    link: "https://github.com/tetraxion/Web_Flutter_Portofolio.git",
     description:
         "- Responsive\n- Launch URL\n- Clean Code and a lot of more...",
   ),
